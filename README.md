@@ -28,7 +28,7 @@ The full plan, with predictions and limits for every episode: [docs/EPISODES.md]
 ## Quickstart
 
 ```bash
-git clone https://github.com/<your-username>/mathstat-visual.git
+git clone https://github.com/Aran737/mathstat-visual.git
 cd mathstat-visual
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
